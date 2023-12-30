@@ -1,5 +1,5 @@
 # Hey!
-# If you're here to look at my personal GitHub profile, it's now @alanrme
+# If you're here to look at my personal GitHub profile, it's now [@alanrme](https://github.com/alanrme)
 
 <!--
 **XilogOfficial/XilogOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
